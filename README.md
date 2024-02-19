@@ -1,2 +1,2 @@
-# Projetinhos-de-Estudo
-Alguns Projetos que desenvolvo ao longo dos estudos.
+# Projetinho-de-estudo
+Um projetinho que desenvolvi ao longo do estudo.
